@@ -1,0 +1,14 @@
+.definition-item[data-dictionary="Jitendex.org [2025-01-12]"] {
+  --collapsible-definition-line-count: 5;
+  font-size: 16px !important;
+}
+
+.definition-item[data-dictionary="sankoku8-gpt-5.6-luna en-jp"] {
+  --collapsible-definition-line-count: 5;
+  line-height: 1.5; /* Adjust between 1.4 and 1.6, or use pixels like 24px */
+}
+
+/* jitendex example sentences */
+.gloss-sc-div {
+  font-size: 16px !important;
+}
